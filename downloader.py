@@ -2,7 +2,7 @@
 from pytube import YouTube
 from pytube import Playlist
 
-playlist = Playlist("https://www.youtube.com/playlist?list=PLbu_fGT0MPsv9W38hFS_mTYbdOUOnidzG") #Edit this playlist with your playlist link
+playlist = Playlist("https://www.youtube.com/watch?v=dQw4w9WgXcQ") #Edit this playlist with your playlist link
 
 links=[] 		
 #Created a list to store links 
