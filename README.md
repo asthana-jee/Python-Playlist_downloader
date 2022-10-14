@@ -15,7 +15,7 @@ The program uses PyTube library to run.
 First it fetches every video's link and stores it in a list.
 Then one by one downloads it.
 
-==The program is not fast. I understand better code implementation is required. But this project was just to understand github.== 
+== The program is not fast. I understand better code implementation is required. But this project was just to understand github. == 
 
 
 
